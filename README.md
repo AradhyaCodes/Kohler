@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KOHLER AI Bathroom Designer & Planner
 
 Turns a customer request + room constraints into **three feasible, priced bathroom designs** with a 2D plan and an interactive 3D view.
@@ -29,3 +30,7 @@ pytest
 - Generic clearances, not local building code; rectangular rooms, wall-mounted fixtures only.
 - Water figures use assumed typical values unless `flush_volume_l`, `flow_rate_lpm`, `tub_capacity_l` are added to catalog items.
 - `getdata.py` needs `PriceBooK.pdf` (not committed) and `requirements-data.txt`.
+=======
+# Kohler
+Kohler AI bathroom planner 
+>>>>>>> 2dca0c764b15f1a90eafdc2f19aca53ee707d890
